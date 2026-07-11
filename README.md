@@ -3,4 +3,4 @@ Official implementation of **HeuGNet** developed by SymMatriX Labs, a physics-in
 
 This repository accompanies the manuscript:
 > **Physically-aware Geometrical Deep Learning Framework for Heusler Compounds**
-Submitted to *Journal of Chemical Information and Modeling (JCIM)*.
+> Submitted to *Journal of Chemical Information and Modeling (JCIM)*.
